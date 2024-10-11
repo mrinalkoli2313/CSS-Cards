@@ -1,6 +1,4 @@
-# CSS-Cards
-
-Responsive QR Code Card
+#Responsive QR Code Card
 This project showcases a responsive card that encourages users to scan a QR code to improve their coding skills by visiting Front End Mentor. The card is centered in the viewport, and it features a visually appealing gradient background with clean styling.
 
 Project Overview
